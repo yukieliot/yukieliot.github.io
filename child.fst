@@ -1,7 +1,7 @@
 name = child_embed
-scale = 1
+scale = 10
 filename = child_embed/child_embed.fbx
-texdir = child_embed/textures
+texdir = child_embed/child_embed.fbm
 joint = jointRoot = Hips
 joint = jointHead = HeadTop_End
 joint = jointRightHand = RightHand

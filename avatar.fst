@@ -1,7 +1,7 @@
 name = child_embed
-scale = 1
+scale = 10
 filename = child_embed/child_embed.fbx
-texdir = child_embed/textures
+texdir = https://raw.githubusercontent.com/yukieliot/yukieliot.github.io/master/child_embed/textures/
 joint = jointRoot = Hips
 joint = jointHead = HeadTop_End
 joint = jointRightHand = RightHand

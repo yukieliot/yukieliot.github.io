@@ -1,5 +1,5 @@
 name = child_embed
-scale = 1
+scale = 10
 filename = child_embed/child_embed.fbx
 texdir = child_embed
 joint = jointRoot = Hips
